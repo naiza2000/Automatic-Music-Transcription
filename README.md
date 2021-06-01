@@ -1,6 +1,6 @@
 # Automatic-Music-Transcription
 
-##  TASK 1 ##
+##  TASK 1 : Getting started ##
 ### Reading resources ###
 1. Python: <br/> 
     a. [Python For Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) <br/>
