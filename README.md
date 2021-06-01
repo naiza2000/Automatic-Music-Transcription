@@ -14,7 +14,8 @@
 ### GitHub for work ###
 Fork the repository, clone it on your local pc, and do the assignments and push all changes back to your forked repo before the deadline. <br/>
 Those who are not familiar with GitHub can use following resources to understand the working. <br/>
-1. [Learn Git in 10 minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+1. [Learn Git in 10 minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) <br/>
+2. [Forking the repo](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo)
 
 ### Assignment 1 ###
 Deadling for submission is 23:59 PM on 4 June 2021. Make changes in the notebook `Music_Representations.ipynb` itself and push the modified notebook to your **forked** repo.
