@@ -8,7 +8,7 @@
     c. Hackerrank : [Python](https://www.hackerrank.com/domains/python) <br/>
     d. [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/) <br/>
 2. Music Representation: <br/>
-    a. [Chapter 1: Fundamentals of music processing by Meinard Müller](https://drive.google.com/drive/u/0/folders/18b1ekxSj9d-b1VtqhMYh_2ohP-4umVDp) <br/>
+    a. [Chapter 1: Fundamentals of music processing by Meinard Müller](https://drive.google.com/file/d/16D8ahAWFJ-UpnjTzyLL1BP7C5GdSz7cY/view?usp=sharing) <br/>
     You can find the summary of the chapter in the subdirectory `Automatic-Music-Transcription/Task 1` <br/>
 
 ### GitHub for work ###
